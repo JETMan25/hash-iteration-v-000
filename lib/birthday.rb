@@ -5,6 +5,7 @@
 # }
 
 def happy_birthday(birthday_kids)
+ happy = ""
   birthday_kids.each do |name, age|
     if name == name_a && 
   
