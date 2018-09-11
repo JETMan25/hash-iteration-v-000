@@ -6,7 +6,7 @@
 
 def happy_birthday(birthday_kids)
   birthday_kids.each do |name, age|
-    
+    if name == name_a && 
   
   # add your code snippet here!
 end
