@@ -7,5 +7,8 @@
 # }
 
 def select_winner(passengers)
-  # add the code snippet here!
+    # add the code snippet here!
+  passengers.each do |room|
+    
+
 end
